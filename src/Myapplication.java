@@ -3,7 +3,7 @@ import java.util.Collections;
 import java.util.List;
 
 
-public class Main {
+public class Myapplication {
 
     public static void main(String[] args) {
         Employee employee1 = new Employee("Samandar", "Babakhanov", "Manager", 344565.00);
